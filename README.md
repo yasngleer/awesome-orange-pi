@@ -18,14 +18,14 @@ Please feel free to send me pull requests.
 - [Tutorials](#tutorials)
 - [Projects](#projects)
 
-## Advices
+# Advices
 - Use Armbian OS (Use desktop image if you are beginner)
 - Flash image with etcher.
 - Use class 10 sd card.
 - Power with at least 2A power supply.
-## OS Images
-## Tools
-## Libraries
+# OS Images
+# Tools
+# Libraries
 - ### GPIO
   - [python-periphery](https://github.com/vsergeev/python-periphery) (python)
   - [WiringOP-Zero](https://github.com/xpertsavenue/WiringOP-Zero) (c)
@@ -34,7 +34,7 @@ Please feel free to send me pull requests.
   - [DHT22 Python library](https://github.com/ionutpi/DHT22-Python-library-Orange-PI)
 - ### Other
 
-## Tutorials
+# Tutorials
 - ### GPIO
   - [Orange Pi One Python GPIO (basic)](http://www.instructables.com/id/Orange-Pi-One-Python-GPIO-basic/)(useful for other h3 boards too)
   - [Orange Pi 2G-IoT Python GPIO examples](https://github.com/txurtxil/OpiIoTGPIO)
@@ -44,5 +44,5 @@ Please feel free to send me pull requests.
 - ### Other
   - [How to setup Infrared Remote Control in Orange pi Zero using lircd and python](http://codelectron.com/how-to-setup-infrared-remote-control-in-orange-pi-zero-using-lircd-and-python/)
 
-## Projects
+# Projects
 - [AlexaOPI](https://github.com/dony71/AlexaOPi)
