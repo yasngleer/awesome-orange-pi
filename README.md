@@ -11,13 +11,17 @@ This list is a collection of Orange Pi libraries, tools. videos, tutorials and b
 Please feel free to send me pull requests.
 
 # Contents
-- [FAQ](#faq)
+- [Advices](#advices)
 - [OS Images](#os-images)
 - [Tools](#tools)
 - [Libraries](#libraries)
-- [Projects and Blogs](#projects-and-blogs)
+- [Projects and Tutorials](#projects-and-tutorials)
 
-## FAQ
+## Advices
+- Use Armbian OS (Use desktop image if you are beginner)
+- Flash image with etcher.
+- Use class 10 sd card.
+- Power with at least 2A power supply.
 ## OS Images
 ## Tools
 ## Libraries
@@ -25,4 +29,4 @@ Please feel free to send me pull requests.
 - ### LCD
 - ### Modules
 - ### Other
-## Projects and Blogs
+## Projects and Tutorials
